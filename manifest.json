@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "re-did : Remove Promoted Posts on Reddit",
+    "version": "0.0.1",
+    "description": "A Chrome extension to remove promoted posts on Reddit.",
+    "content_scripts": [
+      {
+        "matches": [
+            "https://www.reddit.com/*"
+        ],
+        "js": ["src/content.js"]
+      }
+    ],
+    "icons": {
+        "16": "assets/icon.png",
+        "48": "assets/icon.png",
+        "128": "assets/icon.png"
+    },    
+    "action": {
+      "default_icon": "assets/icon.png"
+    }
+}
