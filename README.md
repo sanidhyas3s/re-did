@@ -14,7 +14,7 @@ A Chrome extension to remove promoted posts on Reddit.
 1. Click on "**Load unpacked**" and select the extension directory.
 1. That's it, enjoy your ad-free Reddit feed!
 
-
+<sup>Follow similar steps on other browsers which support extensions like [Microsoft Edge](https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/extension-sideloading), Brave.</sup>
 
 ### **How It Works**
 
